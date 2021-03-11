@@ -77,7 +77,7 @@ const TeamDetail = () => {
               <a style={socialIcon}  href="https://www.facebook.com/Arsenal/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon= {faFacebook}></FontAwesomeIcon> </a>
               <a style={socialIcon}  href="https://www.instagram.com/arsenal/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon= {faInstagram}></FontAwesomeIcon> </a>
               
-              <h2>Copyright </h2>
+              
                 </div>
            </div>
 
