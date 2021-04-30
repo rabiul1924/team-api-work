@@ -1,4 +1,4 @@
-· Live site: https://github.com/rabiul1924/team-api-work
+· Live site: https://reverent-montalcini-98fb49.netlify.app/
 
 ·Technology used: React,React Route,React Bootstrap,The SportsDB API
 
